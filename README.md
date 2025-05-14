@@ -3,9 +3,15 @@
 
 This project explores customer behavior based on a food delivery service's user data collected from September 2019 through October 2020. The dataset contains one row per user and includes details like purchase frequency, average order value, and registration metadata. The analysis focuses on creating strategic customer segments and uncovering behavioral patterns to drive better business decisions.
 
-## 📝 Dataset Description
 
-Attached to this message you’ll find a CSV file with some machine-generated user data of a service like Wolt. Every row of the dataset represents one customer who has registered to use the service during September 2019 and either has or hasn’t made orders during the time from then and October 2020.
+## 📁 Dataset Source
+
+This dataset was originally published by **Wolt** as part of their **Data Science Internship recruitment process in Helsinki**. It contains anonymized user-level food delivery transaction data between **September 2019 and October 2020**, including purchasing behavior, registration metadata, and ordering habits.
+
+ **Source**: [Wolt Recruitment Dataset – Google Drive](https://drive.google.com/drive/folders/1HNL3JizBQcPp2ffrGc3AlLUWk5UfGSs2)
+ 
+> The dataset was made publicly available by Wolt to support recruitment efforts and provides an excellent foundation for customer segmentation, churn analysis, and strategic product or marketing insights.
+
 
 📊 **Dashboard:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/gizem.kilic/viz/CustomerSegmentationandStrategicInsights-FoodDeliveryExample/Dashboard1)
