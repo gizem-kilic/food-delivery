@@ -1,0 +1,6 @@
+"customer_segment","user_count","total_revenue","avg_revenue_per_user","churn_risk_users","churn_risk_rate_percent"
+"Mid-Tier User","7239","1347078.26","186.09","2279","31.48"
+"Power User","648","415795.38","641.66","191","29.48"
+"Frequent Low Spender","730","205640.42","281.70","304","41.64"
+"Occasional Big Spender","1587","120720.47","76.07","237","14.93"
+"Budget User","1824","30224.39","16.57","280","15.35"
