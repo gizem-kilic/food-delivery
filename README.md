@@ -16,8 +16,6 @@ This dataset was originally published by **Wolt** as part of their **Data Scienc
 📊 **Dashboard:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/gizem.kilic/viz/CustomerSegmentationandStrategicInsights-FoodDeliveryExample/Dashboard1)
 
-![Dashboard Preview](https://public.tableau.com/static/images/Cu/CustomerSegmentationandStrategicInsights-FoodDeliveryExample/Dashboard1/1_rss.png)
-
 ---
 
 ## 📌 Project Goals
