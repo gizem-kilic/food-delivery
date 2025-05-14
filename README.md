@@ -198,7 +198,7 @@ ORDER BY customer_segment, user_count DESC;
 ```
 
 #### Preferred Day of the Week per Segment
-
+(Numbers represent the days in a weekly order, i.e 1=Monday)
 ```sql
 SELECT 
     customer_segment,
