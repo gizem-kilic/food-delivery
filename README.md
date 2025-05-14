@@ -1,5 +1,5 @@
 
-# 🛒 Food Delivery Customer Segmentation & Insights
+## 🛒 Food Delivery Customer Segmentation & Insights
 
 This project explores customer behavior based on a food delivery service's user data collected from September 2019 through October 2020. The dataset contains one row per user and includes details like purchase frequency, average order value, and registration metadata. The analysis focuses on creating strategic customer segments and uncovering behavioral patterns to drive better business decisions.
 
@@ -14,9 +14,13 @@ This dataset was originally published by **Wolt** as part of their **Data Scienc
 
 
 📊 **Dashboard:**  
-[View on Tableau Public](https://public.tableau.com/app/profile/gizem.kilic/viz/CustomerSegmentationandStrategicInsights-FoodDeliveryExample/Dashboard1)
+[View on Tableau Public](https://public.tableau.com/views/CustomerSegmentationandStrategicInsights-FoodDeliveryExample/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+![Food Delivery](Online-Food-Delivery.jpg)
+
+- Tools Used: PostgreSQL and Tableau 
+
 
 ## 📌 Project Goals
 
@@ -284,7 +288,7 @@ ORDER BY total_revenue DESC;
 
 ## ✅ Important Insights
 
-*1. Power Users Drive Majority of Revenue**  
+**1. Power Users Drive Majority of Revenue**  
 Power Users (≥ 6 orders & high avg. order value) contribute significantly to total revenue, despite being fewer in number. These are key targets for loyalty programs.
 
 **2. Most Registered Users Made No Purchases**  
