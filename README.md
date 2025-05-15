@@ -6,11 +6,7 @@ This project explores customer behavior based on a food delivery service's user 
 
 ## 📁 Dataset Source
 
-This dataset was originally published by **Wolt** as part of their **Data Science Internship recruitment process in Helsinki**. It contains anonymized user-level food delivery transaction data between **September 2019 and October 2020**, including purchasing behavior, registration metadata, and ordering habits.
-
- **Source**: [Wolt Recruitment Dataset – Google Drive](https://drive.google.com/drive/folders/1HNL3JizBQcPp2ffrGc3AlLUWk5UfGSs2)
- 
-> The dataset was made publicly available by Wolt to support recruitment efforts and provides an excellent foundation for customer segmentation, churn analysis, and strategic product or marketing insights.
+This dataset was anonymously published online to be able to be used for similar projects.
 
 
 📊 **Dashboard:**  
